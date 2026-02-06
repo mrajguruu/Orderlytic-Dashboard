@@ -1,0 +1,23 @@
+# Frontend environment
+.env.local
+
+# Dependencies
+node_modules/
+.next/
+
+# Build output
+out/
+build/
+
+# Debug
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
